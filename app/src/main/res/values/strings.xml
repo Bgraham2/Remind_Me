@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Remind Me</string>
+    <string name="delete_task">Delete</string>
+    <string name="edit_task">Edit</string>
+    <string name="new_task">New</string>
+    <string name="todays_date">Todays Date</string>
 </resources>
