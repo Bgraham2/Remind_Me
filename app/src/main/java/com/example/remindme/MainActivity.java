@@ -26,6 +26,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
         TextView textView = findViewById(R.id.textView);
-        textView.setText(new SimpleDateFormat("DD MM-yyyy", Locale.US).format(new Date()));
+        textView.setText(new SimpleDateFormat("EEEE, MM/dd/yyyy", Locale.US).format(new Date()));
     }
 }

@@ -4,4 +4,6 @@
     <string name="edit_task">Edit</string>
     <string name="new_task">New</string>
     <string name="todays_date">Todays Date</string>
+    <string name="add_a_new_task">Add a New Task</string>
+    <string name="task_name">Task Name:</string>
 </resources>
