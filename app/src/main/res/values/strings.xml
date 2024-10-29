@@ -6,4 +6,14 @@
     <string name="todays_date">Todays Date</string>
     <string name="add_a_new_task">Add a New Task</string>
     <string name="task_name">Task Name:</string>
+    <string name="cancel">Cancel</string>
+    <string name="buttonsave">ButtonSave</string>
+    <string name="friday">Friday</string>
+    <string name="monday">Monday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="thursday">Thursday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="all_week">All Week</string>
 </resources>
