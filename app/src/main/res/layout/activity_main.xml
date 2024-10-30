@@ -56,7 +56,7 @@
             android:layout_height="wrap_content"
             android:maxWidth="300dp"
             android:minWidth="110dp"
-            android:text="@string/edit_task" />
+            android:text="@string/refresh" />
 
         <Button
             android:id="@+id/buttonDelete"

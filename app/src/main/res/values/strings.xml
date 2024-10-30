@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">Remind Me</string>
     <string name="delete_task">Delete</string>
-    <string name="edit_task">Edit</string>
     <string name="new_task">New</string>
     <string name="todays_date">Todays Date</string>
     <string name="add_a_new_task">Add a New Task</string>
@@ -16,4 +15,6 @@
     <string name="tuesday">Tuesday</string>
     <string name="wednesday">Wednesday</string>
     <string name="all_week">All Week</string>
+    <string name="delete_a_task">Delete or Edit a Task</string>
+    <string name="refresh">Refresh</string>
 </resources>
